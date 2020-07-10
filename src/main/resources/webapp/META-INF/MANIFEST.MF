@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Class-Path: mysql-connector-java-5.1.48.jar commons-fileupload-1.4.jar c
+ ommons-io-2.2.jar standard-1.1.2.jar jstl-1.2.jar jackson-databind-2.10
+ .0.jar jackson-annotations-2.10.0.jar jackson-core-2.10.0.jar javax.ser
+ vlet-api-4.0.0.jar
+
